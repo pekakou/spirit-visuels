@@ -1,6 +1,6 @@
 {
  "semaine": "2026-10-26",
- "statut": "en_attente_validation",
+ "statut": "programme",
  "envoye_le": "2026-10-23T14:54:46+00:00",
  "posts": [
   {
@@ -123,5 +123,7 @@
    "texte": "30 minutes pour voir vos études autrement.\n\nNous vous invitons à une démonstration privée de SPIRITMetrics, avec votre équipe, centrée sur vos enjeux : vos études, votre réseau, vos ambitions pour la nouvelle année.\n\nAu programme :\n• vos résultats d'étude réunis sur une seule plateforme ;\n• la lecture par agence ou par point de vente ;\n• les plans d'action et leur suivi dans le temps.\n\nEn Côte d'Ivoire, une banque et un opérateur télécom ont déjà adopté SPIRITMetrics pour piloter leur performance.\n\nSur rendez-vous, au moment qui vous convient.\nOffre Bronze incluse pour toute étude confiée à SPIRIT.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nRéservez votre démo :\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\nBénin : +229 01 66 66 89 90\n\n#SPIRITMetrics #DémoPrivée #Performance #CôteDIvoire #Bénin",
    "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-10-26/vendredi_LI.png"
   }
- ]
+ ],
+ "programme_le": "2026-10-26T07:09:55+00:00",
+ "programme_par": "regle_lundi_7h"
 }
