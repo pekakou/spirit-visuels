@@ -1,6 +1,6 @@
 {
  "semaine": "2026-11-02",
- "statut": "en_attente_validation",
+ "statut": "programme",
  "envoye_le": "2026-10-30T15:24:51+00:00",
  "posts": [
   {
@@ -312,5 +312,7 @@
   }
  ],
  "revise_le": "2026-11-02T00:39:50+00:00",
- "revision": "Planning revu avec Paul-Emile dans la nuit du 1er au 2 novembre : semaine « SPIRIT et ses offres », toujours le film avant les réels, mêmes vidéos sur tous les réseaux. Lun film DG, mar réel DG partie 1, mer réel DG partie 2, jeu film boutique, ven réel boutique partie 1. Réel boutique partie 2 à placer la semaine suivante. Panel SPIRIT : semaine du 9 novembre (lancement le 9, CI uniquement). Exceptionnellement, réel boutique partie 2 le samedi 7 novembre sur les trois réseaux (demande de Paul-Emile)."
+ "revision": "Planning revu avec Paul-Emile dans la nuit du 1er au 2 novembre : semaine « SPIRIT et ses offres », toujours le film avant les réels, mêmes vidéos sur tous les réseaux. Lun film DG, mar réel DG partie 1, mer réel DG partie 2, jeu film boutique, ven réel boutique partie 1. Réel boutique partie 2 à placer la semaine suivante. Panel SPIRIT : semaine du 9 novembre (lancement le 9, CI uniquement). Exceptionnellement, réel boutique partie 2 le samedi 7 novembre sur les trois réseaux (demande de Paul-Emile).",
+ "programme_le": "2026-11-02T07:06:01+00:00",
+ "programme_par": "regle_lundi_7h"
 }
