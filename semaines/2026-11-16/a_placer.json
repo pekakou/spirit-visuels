@@ -1,0 +1,25 @@
+{
+ "semaine": "2026-11-16",
+ "statut": "a_valider",
+ "note": "Posts imposés par Paul-Emile le 2 novembre, à intégrer tels quels en tête de la semaine du 16 novembre (lundi 16, Facebook Côte d'Ivoire et LinkedIn ; pas de Bénin, Panel SPIRIT étant lancé en Côte d'Ivoire uniquement). Les 4 autres jours de la semaine restent à proposer.",
+ "posts": [
+  {
+   "jour": "lundi",
+   "date": "2026-11-16",
+   "pays": "CI",
+   "angle": "Panel SPIRIT : vidéo de présentation de l'offre (39 s)",
+   "texte": "🎯 Panel SPIRIT, en 40 secondes.\n\nToute décision gagne à s'appuyer sur la voix de ceux qu'elle concerne.\n\nEn Côte d'Ivoire, Panel SPIRIT réunit une communauté de consommateurs, d'usagers et de citoyens, profilés et contrôlés.\n\n👥 Panel généraliste, panels sur mesure, panels clients et Panel CX : chaque besoin trouve sa configuration.\n📊 Cinq formats d'étude, du sondage Flash au Baromètre, pour des réponses rigoureuses et comparables dans le temps.\n💻 Vos résultats restitués sur Panel SPIRIT ou, pour un besoin approfondi, dans SPIRITMetrics.\n\nDes opinions partagées. Des décisions éclairées.\n\n👉 Parlons de votre étude :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 panel.spirit-ci.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-16/presentation_panelSPIRIT_CI_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-16/presentation_panelSPIRIT_CI.mp4"
+  },
+  {
+   "jour": "lundi",
+   "date": "2026-11-16",
+   "pays": "LI",
+   "angle": "Panel SPIRIT : vidéo de présentation de l'offre (39 s)",
+   "texte": "Panel SPIRIT, en 40 secondes.\n\nToute décision gagne à s'appuyer sur la voix de ceux qu'elle concerne.\n\nEn Côte d'Ivoire, Panel SPIRIT réunit une communauté de consommateurs, d'usagers et de citoyens, profilés et contrôlés. Selon votre besoin, nous mobilisons le panel généraliste, des panels constitués sur mesure, vos panels clients ou Panel CX.\n\nCinq formats d'étude couvrent l'essentiel des décisions, du sondage Flash au Baromètre suivi par vagues, pour des réponses rigoureuses et comparables dans le temps. Les résultats sont restitués sur Panel SPIRIT ou, pour un besoin approfondi, dans SPIRITMetrics.\n\nDes opinions partagées. Des décisions éclairées.\n\nParlons de votre étude : panel.spirit-ci.com\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\n\n#PanelSPIRIT #ÉtudesDeMarché #Consommateurs #SPIRIT #CôteDIvoire",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-16/presentation_panelSPIRIT_LI4_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-16/presentation_panelSPIRIT_LI4.mp4"
+  }
+ ]
+}
