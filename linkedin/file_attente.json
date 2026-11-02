@@ -59,9 +59,11 @@
   "date": "2026-11-02",
   "texte": "Le secret du DG.\n\nDeux entreprises, des offres comparables. Chez l'une, les clients partent sans rien dire et le chiffre d'affaires baisse. Chez l'autre, la clientèle grandit.\n\nLa différence ne tient pas au produit. Elle tient à la manière d'écouter son marché, sous trois angles complémentaires :\n• la voix du client : ce que vos clients disent ;\n• le client mystère : ce qu'ils vivent vraiment, en agence ou en point de vente ;\n• le baromètre collaborateurs : ce que ressentent vos équipes.\n\nS'y ajoute la formation, en présentiel et en e-learning, pour transformer les constats en progrès. Le tout piloté dans SPIRITMetrics.\n\nC'est la solution intégrée Expérience Client de SPIRIT.\n\nComprendre. Décider. Progresser.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nParlons de votre expérience client :\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\nBénin : +229 01 66 66 89 90\n\n#ExpérienceClient #VoixDuClient #ClientMystère #SPIRITMetrics #CôteDIvoire #Bénin",
   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-02/film_DG_LI_vignette.png",
-  "statut": "a_publier",
+  "statut": "publie",
   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-02/film_DG_LI4.mp4",
-  "erreur_precedente": "Make 7923864 (exécution 220e8b8491934be9ab4c643b4e1f5190), module MakeAPICall LinkedIn : 400 stitchBlob « All chunks IDs must be signed » à la finalisation de l'envoi vidéo (fichier 13 407 058 octets)."
+  "erreur_precedente": "Make 7923864 (exécution 220e8b8491934be9ab4c643b4e1f5190), module MakeAPICall LinkedIn : 400 stitchBlob « All chunks IDs must be signed » à la finalisation de l'envoi vidéo (fichier 13 407 058 octets).",
+  "publie_le": "2026-11-02T08:38:12+00:00",
+  "note": "Republié en version allégée (moins de 4 Mo) avec accord de Paul-Emile, exécution Make 17cdf7996ddf4aefb6b3723978a8952e"
  },
  {
   "date": "2026-11-03",
