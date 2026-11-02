@@ -1,8 +1,8 @@
 {
  "semaine": "2026-11-09",
  "statut": "en_attente_validation",
- "cree_le": "2026-11-02T06:38:07+00:00",
- "note": "Semaine Panel SPIRIT (lancement le 9 novembre, Côte d'Ivoire uniquement) et Panel CX. Toujours le film avant les réels, mêmes vidéos les mêmes jours sur tous les réseaux. Bénin : pas de publication du lundi au mercredi (Panel SPIRIT absent au Bénin). Samedi 14 (CI, BJ, LinkedIn) : tâche ponctuelle à créer après validation.",
+ "cree_le": "2026-11-02T06:53:03+00:00",
+ "note": "Semaine Panel SPIRIT (lancement le 9 novembre, Côte d'Ivoire uniquement) et Panel CX. Toujours le film avant les réels, mêmes vidéos les mêmes jours sur tous les réseaux. Bénin lun-mer (pas de Panel SPIRIT) : client mystère terrain, Deux histoires + démo, capsule SPIRITMetrics. Samedi 14 (CI, BJ, LinkedIn) : tâche ponctuelle à créer après validation.",
  "options_hors_grille": [
   {
    "jour": "lundi",
@@ -28,6 +28,14 @@
   {
    "jour": "lundi",
    "date": "2026-11-09",
+   "pays": "BJ",
+   "angle": "Client mystère multicanal : « Vos clients vus depuis le terrain » (image)",
+   "texte": "🔍 Vos clients vus depuis le terrain.\n\nCe que vivent vos clients se voit d'abord sur le terrain. C'est là que commence l'évaluation SPIRIT Bénin.\n\n1️⃣ Visites, appels, parcours digitaux : nos clients mystères vivent votre service comme vos clients\n2️⃣ Les résultats arrivent par agence dans SPIRITMetrics, sur une carte et des fiches claires\n3️⃣ Les plans d'action sont suivis jusqu'à l'agence\n\n🤝 Une équipe à Cotonou, qui connaît les réalités de notre marché et reste proche de vous.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/terrain_client_mystere_BJ.png"
+  },
+  {
+   "jour": "lundi",
+   "date": "2026-11-09",
    "pays": "LI",
    "angle": "Panel SPIRIT (lancement, Côte d'Ivoire uniquement) : film complet (40 s)",
    "texte": "Lancement : Panel SPIRIT est en ligne en Côte d'Ivoire.\n\nVotre marché a des choses à vous dire.\n\nUn produit est prêt, l'équipe aussi, mais une question reste ouverte : notre cible est-elle prête à payer ce prix ? Combien de lancements reposent encore sur une intuition plutôt que sur l'avis de ceux qui vont acheter ?\n\nPanel SPIRIT est la communauté de consommateurs de SPIRIT en Côte d'Ivoire :\n• des centaines de consommateurs répondent, à Abidjan comme à l'intérieur du pays ;\n• en quelques jours, le rapport est livré ;\n• des réponses claires, fiables, exploitables.\n\nTester une offre, comprendre les usages, suivre votre marque, écouter vos publics : Panel SPIRIT vous donne l'avis du marché avant de décider.\n\nDes opinions partagées. Des décisions éclairées.\n\nLancez votre étude : panel.spirit-ci.com\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\n\n#PanelSPIRIT #ÉtudesDeMarché #Consommateurs #SPIRIT #CôteDIvoire",
@@ -46,6 +54,14 @@
   {
    "jour": "mardi",
    "date": "2026-11-10",
+   "pays": "BJ",
+   "angle": "« Deux histoires, un même secret » : rappel des films DG et boutique + démo SPIRITMetrics 3 min 24 (image)",
+   "texte": "✨ Deux histoires, un même secret.\n\nLa semaine dernière : un directeur général qui retrouve la croissance, une boutique qui retrouve sa clientèle. 🏢🛍️ Leur secret : écouter vraiment leurs clients, et agir.\n\nEt pour tout piloter, au même endroit : SPIRITMetrics. Découvrez-le en 3 min 24 🎬, puis voyons ensemble, en démo privée, ce qu'il peut faire pour vous.\n\nEt vous, quel sera votre secret ? 😉\n\n🎬 Démo vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo privée :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/deux_histoires_demo_BJ.png"
+  },
+  {
+   "jour": "mardi",
+   "date": "2026-11-10",
    "pays": "LI",
    "angle": "Panel SPIRIT (lancement, Côte d'Ivoire uniquement) : réel partie 1",
    "texte": "Tout est prêt… sauf une réponse.\n\nLe produit, le prix, la campagne : tout est sur la table. Il ne manque qu'une chose, l'avis de ceux qui vont acheter. C'est souvent à ce moment précis que se joue le succès d'un lancement.\n\n« Allô, Panel SPIRIT ? »\n\nDemain, la suite : comment le marché a répondu.\n\nLancez votre étude : panel.spirit-ci.com\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\n\n#PanelSPIRIT #ÉtudesDeMarché #SPIRIT #CôteDIvoire",
@@ -60,6 +76,15 @@
    "texte": "📊 Une décision importante attendait une seule chose : l'avis du marché.\n\nÉtudiants, commerçants, mères de famille… Des centaines de consommateurs répondent, à Abidjan comme à l'intérieur du pays.\n\nEn quelques jours, le rapport est livré : des réponses claires, fiables, exploitables. Le produit est lancé à temps, en toute confiance. ✅\n\nDes opinions partagées. Des décisions éclairées.\n\n👉 Lancez votre étude avec Panel SPIRIT :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 panel.spirit-ci.com",
    "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelSPIRIT_partie2_CI_vignette.png",
    "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelSPIRIT_partie2_CI.mp4"
+  },
+  {
+   "jour": "mercredi",
+   "date": "2026-11-11",
+   "pays": "BJ",
+   "angle": "Capsule SPIRITMetrics (20 s) : « Vos études dorment-elles dans un tiroir ? »",
+   "texte": "🗄️ Vos études dorment-elles dans un tiroir ?\n\n3 signes qui ne trompent pas :\n1️⃣ Le rapport a été présenté… puis rangé.\n2️⃣ Chacun lit les résultats à sa façon.\n3️⃣ Personne ne sait ce qui a changé depuis.\n\nSi vous vous êtes reconnu, SPIRITMetrics transforme vos résultats en décisions et en plans d'action suivis. 💡\n\n▶️ Capsule de 20 secondes, à regarder avec ou sans le son.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/capsule_etudes_tiroir_BJ_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/capsule_etudes_tiroir_BJ.mp4"
   },
   {
    "jour": "mercredi",
