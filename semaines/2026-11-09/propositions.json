@@ -1,6 +1,6 @@
 {
  "semaine": "2026-11-09",
- "statut": "en_attente_validation",
+ "statut": "programme",
  "cree_le": "2026-11-02T06:53:03+00:00",
  "note": "Semaine Panel SPIRIT (lancement le 9 novembre, Côte d'Ivoire uniquement) et Panel CX. Toujours le film avant les réels, mêmes vidéos les mêmes jours sur tous les réseaux. Bénin lun-mer (pas de Panel SPIRIT) : client mystère terrain, Deux histoires + démo, capsule SPIRITMetrics. Samedi 14 (CI, BJ, LinkedIn) : tâche ponctuelle à créer après validation.",
  "options_hors_grille": [
@@ -31,7 +31,8 @@
    "pays": "BJ",
    "angle": "Client mystère multicanal : « Vos clients vus depuis le terrain » (image)",
    "texte": "🔍 Vos clients vus depuis le terrain.\n\nCe que vivent vos clients se voit d'abord sur le terrain. C'est là que commence l'évaluation SPIRIT Bénin.\n\n1️⃣ Visites, appels, parcours digitaux : nos clients mystères vivent votre service comme vos clients\n2️⃣ Les résultats arrivent par agence dans SPIRITMetrics, sur une carte et des fiches claires\n3️⃣ Les plans d'action sont suivis jusqu'à l'agence\n\n🤝 Une équipe à Cotonou, qui connaît les réalités de notre marché et reste proche de vous.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/terrain_client_mystere_BJ.png"
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/terrain_client_mystere_BJ.png",
+   "programme_facebook_le": "2026-11-02T07:12:07+00:00"
   },
   {
    "jour": "lundi",
@@ -57,7 +58,8 @@
    "pays": "BJ",
    "angle": "« Deux histoires, un même secret » : rappel des films DG et boutique + démo SPIRITMetrics 3 min 24 (image)",
    "texte": "✨ Deux histoires, un même secret.\n\nLa semaine dernière : un directeur général qui retrouve la croissance, une boutique qui retrouve sa clientèle. 🏢🛍️ Leur secret : écouter vraiment leurs clients, et agir.\n\nEt pour tout piloter, au même endroit : SPIRITMetrics. Découvrez-le en 3 min 24 🎬, puis voyons ensemble, en démo privée, ce qu'il peut faire pour vous.\n\nEt vous, quel sera votre secret ? 😉\n\n🎬 Démo vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo privée :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/deux_histoires_demo_BJ.png"
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/deux_histoires_demo_BJ.png",
+   "programme_facebook_le": "2026-11-02T07:12:07+00:00"
   },
   {
    "jour": "mardi",
@@ -176,5 +178,7 @@
    "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_LI_vignette.png",
    "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_LI.mp4"
   }
- ]
+ ],
+ "programme_le": "2026-11-02T07:12:07+00:00",
+ "programme_par": "validation_paul_emile"
 }
