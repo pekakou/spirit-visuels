@@ -2,7 +2,7 @@
  "semaine": "2026-11-16",
  "statut": "programme",
  "envoye_le": "2026-11-02T06:53:03+00:00",
- "note": "Programme de la semaine du 9 novembre décalé tel quel au 16 novembre (décision de Paul-Emile du 8 novembre 2026 : lancement de Panel SPIRIT reporté d'une semaine, semaines inversées). Validé par Paul-Emile le 2 novembre, report confirmé le 8 novembre. Toujours le film avant les réels, mêmes vidéos les mêmes jours sur tous les réseaux. Panel SPIRIT en Côte d'Ivoire uniquement. Samedi 21 : tâche ponctuelle. Vidéo de présentation Panel SPIRIT déplacée au lundi 23 (semaines/2026-11-23/a_placer.json).",
+ "note": "Programme de la semaine du 9 novembre décalé tel quel au 16 novembre (décision de Paul-Emile du 8 novembre 2026 : lancement de Panel SPIRIT reporté d'une semaine, semaines inversées). Validé par Paul-Emile le 2 novembre, report confirmé le 8 novembre. Toujours le film avant les réels, mêmes vidéos les mêmes jours sur tous les réseaux. Panel SPIRIT en Côte d'Ivoire uniquement. Samedi 21 : tâche ponctuelle. Vidéo de présentation Panel SPIRIT déplacée au lundi 23 (semaines/2026-11-23/a_placer.json). | 8 novembre (2e décision) : Panel CX avancé à la semaine du 9 ; jeudi 19 et vendredi 20 = nouveaux posts SPIRITMetrics (formation et incentive ; à vos couleurs), en attente de validation (statut_post), à programmer à la validation. Plus de publication le samedi 21.",
  "options_hors_grille": [
   {
    "jour": "lundi",
@@ -103,82 +103,55 @@
    "jour": "jeudi",
    "date": "2026-11-19",
    "pays": "CI",
-   "angle": "Panel CX : film complet (34 s)",
-   "texte": "📱 Ce que vivent vos clients… vous le savez quand ?\n\nChaque jour, vos clients vivent des expériences que vos études ne voient pas : une attente trop longue, un guichet fermé, une réponse qui tarde.\n\nAvec Panel CX, un panel de clients constitué et animé par SPIRIT :\n⚡ vos clients signalent leurs expériences en temps réel, en moins d'une minute\n🔔 l'alerte arrive aussitôt dans votre espace Panel CX, qualifiée, priorisée et suivie\n🛠️ vos équipes la traitent dans les délais, et vos clients le ressentent\n📈 votre direction pilote l'expérience au quotidien, en complément de vos études\n\nPanel CX, l'expérience au quotidien.\n\n👉 Réservez votre démonstration :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_CI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_CI.mp4"
+   "angle": "Expertise qui vend : « Des résultats qui font progresser » (formation et incentive intégrées à SPIRITMetrics)",
+   "texte": "📈 Un résultat d'étude n'a de valeur que s'il fait progresser vos équipes.\n\nC'est là que SPIRITMetrics va plus loin qu'un tableau de bord :\n1️⃣ Le constat : les résultats par agence, par équipe, par point de contact\n2️⃣ La formation ciblée : des modules de micro-learning et d'e-learning, pour les bonnes équipes, au bon moment\n3️⃣ L'incentive : des points et des récompenses pour encourager les progrès\n4️⃣ Le suivi : chaque vague montre ce qui a vraiment changé\n\nMesurer, former, motiver : au même endroit.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-ci.com/demo\n\n👉 Réservez votre démo :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/mardi_progresser_CI.png",
+   "statut_post": "en_attente_validation"
   },
   {
    "jour": "jeudi",
    "date": "2026-11-19",
    "pays": "BJ",
-   "angle": "Panel CX : film complet (34 s)",
-   "texte": "📱 Ce que vivent vos clients… vous le savez quand ?\n\nChaque jour, vos clients vivent des expériences que vos études ne voient pas : une attente trop longue, un guichet fermé, une réponse qui tarde.\n\nAvec Panel CX, un panel de clients constitué et animé par SPIRIT :\n⚡ vos clients signalent leurs expériences en temps réel, en moins d'une minute\n🔔 l'alerte arrive aussitôt dans votre espace Panel CX, qualifiée, priorisée et suivie\n🛠️ vos équipes la traitent dans les délais, et vos clients le ressentent\n📈 votre direction pilote l'expérience au quotidien, en complément de vos études\n\nPanel CX, l'expérience au quotidien.\n\n👉 Réservez votre démonstration :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_BJ_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_BJ.mp4"
+   "angle": "Expertise qui vend : « Des résultats qui font progresser » (formation et incentive intégrées à SPIRITMetrics)",
+   "texte": "📈 Un résultat d'étude n'a de valeur que s'il fait progresser vos équipes.\n\nC'est là que SPIRITMetrics va plus loin qu'un tableau de bord :\n1️⃣ Le constat : les résultats par agence, par équipe, par point de contact\n2️⃣ La formation ciblée : des modules de micro-learning et d'e-learning, pour les bonnes équipes, au bon moment\n3️⃣ L'incentive : des points et des récompenses pour encourager les progrès\n4️⃣ Le suivi : chaque vague montre ce qui a vraiment changé\n\nMesurer, former, motiver : au même endroit.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/mardi_progresser_BJ.png",
+   "statut_post": "en_attente_validation"
   },
   {
    "jour": "jeudi",
    "date": "2026-11-19",
    "pays": "LI",
-   "angle": "Panel CX : film complet (34 s)",
-   "texte": "Ce que vivent vos clients… vous le savez quand ?\n\nChaque jour, vos clients vivent des expériences que vos études ne voient pas : une attente trop longue, un guichet indisponible, une réponse qui tarde. Le plus souvent, ces moments ne remontent jamais jusqu'à vous.\n\nPanel CX change cette réalité. C'est un panel de clients constitué et animé par SPIRIT :\n• vos clients signalent leurs expériences en temps réel, en moins d'une minute ;\n• l'alerte arrive aussitôt dans votre espace Panel CX, qualifiée, priorisée et suivie ;\n• vos équipes la traitent dans les délais, et vos clients le ressentent ;\n• votre direction pilote l'expérience au quotidien, en complément de vos études.\n\nPanel CX, l'expérience au quotidien.\n\nRéservez votre démonstration :\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\nBénin : +229 01 66 66 89 90\n\n#ExpérienceClient #PanelCX #VoixDuClient #SPIRIT #CôteDIvoire #Bénin",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_LI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/film_panelCX_LI4.mp4"
+   "angle": "Expertise qui vend : « Des résultats qui font progresser » (formation et incentive intégrées à SPIRITMetrics)",
+   "texte": "Mesurer ne suffit pas. Il faut que les équipes progressent.\n\nUn résultat d'étude n'a de valeur que s'il change quelque chose sur le terrain. C'est pourquoi SPIRITMetrics relie la mesure à l'action :\n\n1. Le constat : les résultats par agence, par équipe, par point de contact.\n2. La formation ciblée : des modules de micro-learning et d'e-learning, déclenchés là où les écarts apparaissent.\n3. L'incentive : des points et des récompenses pour encourager les progrès.\n4. Le suivi : chaque vague montre ce qui a vraiment changé.\n\nMesurer, former, motiver : au même endroit.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nRéservez votre démo :\nCôte d'Ivoire : +225 01 41 47 82 82\nBénin : +229 01 66 66 89 90\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282 (Côte d'Ivoire)\n\n#SPIRITMetrics #Formation #Performance #CôteDIvoire #Bénin",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/mardi_progresser_LI.png",
+   "statut_post": "en_attente_validation"
   },
   {
    "jour": "vendredi",
    "date": "2026-11-20",
    "pays": "CI",
-   "angle": "Panel CX : réel partie 1",
-   "texte": "⏱️ Vos clients vivent des expériences… que vos études ne voient pas.\n\nUne attente qui s'éternise, un service qui déçoit : le plus souvent, vous ne le savez jamais.\n\nAvec Panel CX, vos clients vous le signalent en temps réel, en moins d'une minute. 📱\n\n🎬 La suite demain : ce qui se passe une fois l'alerte envoyée.\n\n👉 Réservez votre démonstration :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_CI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_CI.mp4"
+   "angle": "Pub directe SPIRITMetrics : « Votre plateforme, à vos couleurs » (100 % personnalisable)",
+   "texte": "🎨 Votre plateforme, à vos couleurs.\n\nChaque organisation a ses priorités, son réseau, ses indicateurs. Sa plateforme de pilotage aussi.\n\nAvec SPIRITMetrics, tout s'adapte à vous :\n✅ les modules dont vous avez besoin : satisfaction, client mystère, plans d'action, formation…\n✅ vos indicateurs et vos objectifs\n✅ vos couleurs et votre logo\n✅ le parcours de chaque utilisateur, de la direction générale à l'agence\n\n💻📱 Sur ordinateur, tablette et mobile, en mode clair ou sombre.\n🤝 Une équipe à Abidjan, proche de vous, pour la paramétrer avec vous.\n\nComprendre. Décider. Progresser.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-ci.com/demo\n\n👉 Réservez votre démo :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT.",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/lundi_couleurs_CI.png",
+   "statut_post": "en_attente_validation"
   },
   {
    "jour": "vendredi",
    "date": "2026-11-20",
    "pays": "BJ",
-   "angle": "Panel CX : réel partie 1",
-   "texte": "⏱️ Vos clients vivent des expériences… que vos études ne voient pas.\n\nUne attente qui s'éternise, un service qui déçoit : le plus souvent, vous ne le savez jamais.\n\nAvec Panel CX, vos clients vous le signalent en temps réel, en moins d'une minute. 📱\n\n🎬 La suite demain : ce qui se passe une fois l'alerte envoyée.\n\n👉 Réservez votre démonstration :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_BJ_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_BJ.mp4"
+   "angle": "Pub directe SPIRITMetrics : « Votre plateforme, à vos couleurs » (100 % personnalisable)",
+   "texte": "🎨 Votre plateforme, à vos couleurs.\n\nChaque organisation a ses priorités, son réseau, ses indicateurs. Sa plateforme de pilotage aussi.\n\nAvec SPIRITMetrics, tout s'adapte à vous :\n✅ les modules dont vous avez besoin : satisfaction, client mystère, plans d'action, formation…\n✅ vos indicateurs et vos objectifs\n✅ vos couleurs et votre logo\n✅ le parcours de chaque utilisateur, de la direction générale à l'agence\n\n💻📱 Sur ordinateur, tablette et mobile, en mode clair ou sombre.\n🤝 Une équipe à Cotonou, proche de vous, pour la paramétrer avec vous.\n\nComprendre. Décider. Progresser.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT Bénin.",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/lundi_couleurs_BJ.png",
+   "statut_post": "en_attente_validation"
   },
   {
    "jour": "vendredi",
    "date": "2026-11-20",
    "pays": "LI",
-   "angle": "Panel CX : réel partie 1",
-   "texte": "Vos clients vivent chaque jour des expériences que vos études ne voient pas.\n\nUne attente qui s'éternise, un service qui déçoit, un engagement non tenu : ces moments comptent pour vos clients, mais ils arrivent rarement jusqu'à la direction.\n\nAvec Panel CX, un panel de clients constitué et animé par SPIRIT, vos clients vous les signalent en temps réel, en moins d'une minute.\n\nDemain, nous vous montrons ce qui se passe une fois l'alerte envoyée.\n\nRéservez votre démonstration :\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\nBénin : +229 01 66 66 89 90\n\n#ExpérienceClient #PanelCX #SPIRIT #CôteDIvoire #Bénin",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_LI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie1_LI4.mp4"
-  },
-  {
-   "jour": "samedi",
-   "date": "2026-11-21",
-   "pays": "CI",
-   "angle": "Panel CX : réel partie 2 (rappel Isac)",
-   "texte": "🔔 Une alerte client… et après ?\n\nElle arrive aussitôt dans votre espace Panel CX : qualifiée, priorisée et suivie. Vos équipes la traitent dans les délais, et votre direction pilote l'expérience au quotidien, en complément de vos études. 📈\n\nPanel CX, l'expérience au quotidien.\n\n👉 Réservez votre démonstration :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_CI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_CI.mp4"
-  },
-  {
-   "jour": "samedi",
-   "date": "2026-11-21",
-   "pays": "BJ",
-   "angle": "Panel CX : réel partie 2 (rappel Isac)",
-   "texte": "🔔 Une alerte client… et après ?\n\nElle arrive aussitôt dans votre espace Panel CX : qualifiée, priorisée et suivie. Vos équipes la traitent dans les délais, et votre direction pilote l'expérience au quotidien, en complément de vos études. 📈\n\nPanel CX, l'expérience au quotidien.\n\n👉 Réservez votre démonstration :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_BJ_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_BJ.mp4"
-  },
-  {
-   "jour": "samedi",
-   "date": "2026-11-21",
-   "pays": "LI",
-   "angle": "Panel CX : réel partie 2 (rappel Isac)",
-   "texte": "Une alerte client… et après ?\n\nAvec Panel CX, l'alerte arrive aussitôt dans votre espace dédié. Elle est qualifiée, priorisée et suivie.\n\nVos équipes la traitent dans les délais, et vos clients le ressentent. Votre direction, elle, pilote l'expérience client au quotidien, en complément de vos études habituelles.\n\nPasser de l'enquête ponctuelle à l'écoute permanente : c'est tout l'enjeu de Panel CX.\n\nPanel CX, l'expérience au quotidien.\n\nRéservez votre démonstration :\nCôte d'Ivoire : +225 01 41 47 82 82\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282\nBénin : +229 01 66 66 89 90\n\n#ExpérienceClient #PanelCX #PilotageClient #SPIRIT #CôteDIvoire #Bénin",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_LI_vignette.png",
-   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/reel_panelCX_partie2_LI4.mp4"
+   "angle": "Pub directe SPIRITMetrics : « Votre plateforme, à vos couleurs » (100 % personnalisable)",
+   "texte": "Votre plateforme de pilotage devrait vous ressembler.\n\nChaque organisation a ses priorités, son réseau, ses indicateurs. C'est pourquoi SPIRITMetrics est 100 % personnalisable : les modules dont vous avez besoin (satisfaction, client mystère, plans d'action, formation…), vos indicateurs et vos objectifs, vos couleurs, et le parcours de chaque utilisateur, de la direction générale à l'agence.\n\nSur ordinateur, tablette et mobile. Paramétrée avec vous par nos équipes d'Abidjan et de Cotonou.\n\nComprendre. Décider. Progresser.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nRéservez votre démo :\nCôte d'Ivoire : +225 01 41 47 82 82\nBénin : +229 01 66 66 89 90\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282 (Côte d'Ivoire)\n\nOffre Bronze incluse pour toute étude confiée à SPIRIT.\n\n#SPIRITMetrics #ExpérienceClient #Pilotage #CôteDIvoire #Bénin",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/lundi_couleurs_LI.png",
+   "statut_post": "en_attente_validation"
   }
  ]
 }
