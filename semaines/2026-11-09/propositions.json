@@ -1,6 +1,6 @@
 {
  "semaine": "2026-11-09",
- "statut": "en_attente_validation",
+ "statut": "programme",
  "envoye_le": "2026-11-08T05:48:01+00:00",
  "note": "Semaine Panel CX (décision de Paul-Emile du 8 novembre 2026) : film lundi 9, réel 1 mardi 10, réel 2 mercredi 11 (vidéos validées le 2 novembre), jeudi 12 image Journée mondiale de la qualité sans Panel CX (évaluation, client mystère ; décision du 8 novembre), vendredi 13 vidéo SPIRITMetrics 40 s fournie par Paul-Emile (pub invitation), dimanche 15 Journée nationale de la paix (Facebook CI). Pas de Panel SPIRIT (lancement le 16).",
  "posts": [
@@ -91,7 +91,9 @@
    "pays": "CI",
    "angle": "Journée mondiale de la qualité (12 novembre) : « La qualité se joue à chaque contact » (évaluation, client mystère ; sans Panel CX, sans démo)",
    "texte": "🌍 C'est aujourd'hui la Journée mondiale de la qualité.\n\nLa qualité ne se décrète pas : elle se joue à chaque contact, en agence, au téléphone, en ligne.\n\nPour savoir ce que vivent vraiment vos clients, rien ne remplace le terrain. C'est le métier de l'évaluation SPIRIT :\n1️⃣ Visites mystères en agence et en point de vente\n2️⃣ Appels mystères et parcours digitaux\n3️⃣ Des résultats clairs, agence par agence, et des plans d'action suivis\n\n🏆 Pionnier du client mystère en Côte d'Ivoire, depuis plus de 12 ans.\n\nBelle Journée mondiale de la qualité à toutes les équipes qui font vivre le service, chaque jour. 👏\n\n💬 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/jeudi_qualite_CI.png"
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/jeudi_qualite_CI.png",
+   "programme_facebook_le": "2026-11-08T08:47:41+00:00",
+   "execution_make": "fc67645541444a8fb902bd0508ab5423"
   },
   {
    "jour": "jeudi",
@@ -99,7 +101,9 @@
    "pays": "BJ",
    "angle": "Journée mondiale de la qualité (12 novembre) : « La qualité se joue à chaque contact » (évaluation, client mystère ; sans Panel CX, sans démo)",
    "texte": "🌍 C'est aujourd'hui la Journée mondiale de la qualité.\n\nLa qualité ne se décrète pas : elle se joue à chaque contact, en agence, au téléphone, en ligne.\n\nPour savoir ce que vivent vraiment vos clients, rien ne remplace le terrain. C'est le métier de l'évaluation SPIRIT Bénin :\n1️⃣ Visites mystères en agence et en point de vente\n2️⃣ Appels mystères et parcours digitaux\n3️⃣ Des résultats clairs, agence par agence, et des plans d'action suivis\n\n🤝 Une équipe à Cotonou, proche de vous.\n\nBelle Journée mondiale de la qualité à toutes les équipes qui font vivre le service, chaque jour. 👏\n\n💬 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/jeudi_qualite_BJ.png"
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/jeudi_qualite_BJ.png",
+   "programme_facebook_le": "2026-11-08T08:47:41+00:00",
+   "execution_make": "fe6f250c192e463b83e234a5067073b8"
   },
   {
    "jour": "jeudi",
@@ -147,5 +151,7 @@
    "programme_facebook_le": "2026-11-08T08:20:00+00:00",
    "execution_make": "3a16d48835604048881417c7f56b3eee"
   }
- ]
+ ],
+ "programme_le": "2026-11-08T08:47:41+00:00",
+ "programme_par": "validation_paul_emile"
 }
