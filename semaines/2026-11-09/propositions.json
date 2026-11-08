@@ -1,8 +1,8 @@
 {
  "semaine": "2026-11-09",
  "statut": "en_attente_validation",
- "envoye_le": "2026-11-08T04:37:14+00:00",
- "note": "Semaine Panel CX (décision de Paul-Emile du 8 novembre 2026) : film lundi 9, réel 1 mardi 10, réel 2 mercredi 11 (vidéos validées le 2 novembre), jeudi 12 image Journée mondiale de la qualité sans Panel CX (évaluation, client mystère ; décision du 8 novembre), vendredi 13 pub invitation SPIRITMetrics, dimanche 15 Journée nationale de la paix (Facebook CI). Pas de Panel SPIRIT (lancement le 16).",
+ "envoye_le": "2026-11-08T05:48:01+00:00",
+ "note": "Semaine Panel CX (décision de Paul-Emile du 8 novembre 2026) : film lundi 9, réel 1 mardi 10, réel 2 mercredi 11 (vidéos validées le 2 novembre), jeudi 12 image Journée mondiale de la qualité sans Panel CX (évaluation, client mystère ; décision du 8 novembre), vendredi 13 vidéo SPIRITMetrics 40 s fournie par Paul-Emile (pub invitation), dimanche 15 Journée nationale de la paix (Facebook CI). Pas de Panel SPIRIT (lancement le 16).",
  "posts": [
   {
    "jour": "lundi",
@@ -113,25 +113,28 @@
    "jour": "vendredi",
    "date": "2026-11-13",
    "pays": "CI",
-   "angle": "Pub invitation : « Votre performance, d'un seul regard » (directions générales et marketing, démo privée)",
-   "texte": "👁️ Votre performance, d'un seul regard.\n\nDirections générales, directions marketing : SPIRITMetrics vous donne une vision consolidée de tous vos canaux, de la direction générale jusqu'à l'agence.\n📊 Satisfaction, client mystère, Panel CX : tout au même endroit\n🗺️ Vos résultats sur une carte, agence par agence\n✅ Les plans d'action suivis jusqu'au terrain\n\nDéjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n\n🤝 Notre équipe d'Abidjan est à vos côtés. Nous venons vous la présenter, avec vos propres enjeux, lors d'une démo privée.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-ci.com/demo\n\n👉 Réservez votre démo privée :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT.",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/vendredi_vision_CI.png"
+   "angle": "Pub invitation : vidéo « SPIRITMetrics en 40 secondes » fournie par Paul-Emile (démo privée)",
+   "texte": "🎬 SPIRITMetrics, en 40 secondes.\n\nLa solution qui transforme vos résultats d'étude en performance :\n📊 expérience client, satisfaction, client mystère : tout au même endroit\n🎯 chaque niveau de responsabilité voit ses priorités, de la direction générale à l'agence\n📄 des rapports prêts à partager\n💻📱 sur tous vos écrans\n\nDéjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n🤝 Notre équipe d'Abidjan vous la présente, avec vos propres enjeux, lors d'une démo privée.\n\nComprendre. Décider. Progresser.\n\n🎬 La démo complète en vidéo : https://www.spirit-ci.com/demo\n\n👉 Réservez votre démo privée :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT.",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_CI_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_CI.mp4"
   },
   {
    "jour": "vendredi",
    "date": "2026-11-13",
    "pays": "BJ",
-   "angle": "Pub invitation : « Votre performance, d'un seul regard » (directions générales et marketing, démo privée)",
-   "texte": "👁️ Votre performance, d'un seul regard.\n\nDirections générales, directions marketing : SPIRITMetrics vous donne une vision consolidée de tous vos canaux, de la direction générale jusqu'à l'agence.\n📊 Satisfaction, client mystère, Panel CX : tout au même endroit\n🗺️ Vos résultats sur une carte, agence par agence\n✅ Les plans d'action suivis jusqu'au terrain\n\nDéjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n\n🤝 Notre équipe de Cotonou est à vos côtés. Nous venons vous la présenter, avec vos propres enjeux, lors d'une démo privée.\n\n🎬 Découvrez SPIRITMetrics en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo privée :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT Bénin.",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/vendredi_vision_BJ.png"
+   "angle": "Pub invitation : vidéo « SPIRITMetrics en 40 secondes » fournie par Paul-Emile (démo privée)",
+   "texte": "🎬 SPIRITMetrics, en 40 secondes.\n\nLa solution qui transforme vos résultats d'étude en performance :\n📊 expérience client, satisfaction, client mystère : tout au même endroit\n🎯 chaque niveau de responsabilité voit ses priorités, de la direction générale à l'agence\n📄 des rapports prêts à partager\n💻📱 sur tous vos écrans\n\nDéjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n🤝 Notre équipe de Cotonou vous la présente, avec vos propres enjeux, lors d'une démo privée.\n\nComprendre. Décider. Progresser.\n\n🎬 La démo complète en vidéo : https://www.spirit-bj.com/demo\n\n👉 Réservez votre démo privée :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com\n\n🎁 Offre Bronze incluse pour toute étude confiée à SPIRIT Bénin.",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_BJ_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_BJ.mp4"
   },
   {
    "jour": "vendredi",
    "date": "2026-11-13",
    "pays": "LI",
-   "angle": "Pub invitation : « Votre performance, d'un seul regard » (directions générales et marketing, démo privée)",
-   "texte": "Directions générales, directions marketing : votre performance, d'un seul regard.\n\nLes décisions de l'année se prennent avec une vision d'ensemble. SPIRITMetrics consolide tous vos canaux, de la direction générale jusqu'à l'agence : satisfaction, client mystère et Panel CX au même endroit, vos résultats sur une carte, et des plans d'action suivis jusqu'au terrain.\n\nLa plateforme est déjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n\nNous venons vous la présenter, avec vos propres enjeux, lors d'une démo privée.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nRéservez votre démo privée :\nCôte d'Ivoire : +225 01 41 47 82 82\nBénin : +229 01 66 66 89 90\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282 (Côte d'Ivoire)\n\nOffre Bronze incluse pour toute étude confiée à SPIRIT.\n\n#SPIRITMetrics #DirectionGénérale #Marketing #Pilotage #CôteDIvoire #Bénin",
-   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/vendredi_vision_LI.png"
+   "angle": "Pub invitation : vidéo « SPIRITMetrics en 40 secondes » fournie par Paul-Emile (démo privée)",
+   "texte": "SPIRITMetrics, en 40 secondes.\n\nVos études ne devraient pas finir dans un rapport. SPIRITMetrics les transforme en performance : expérience client, satisfaction et client mystère au même endroit, des priorités claires pour chaque niveau de responsabilité, de la direction générale à l'agence, des rapports prêts à partager, sur tous vos écrans.\n\nLa plateforme est déjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire. Nos équipes d'Abidjan et de Cotonou vous la présentent, avec vos propres enjeux, lors d'une démo privée.\n\nComprendre. Décider. Progresser.\n\nDécouvrez la démo complète en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo\nBénin : https://www.spirit-bj.com/demo\n\nRéservez votre démo privée :\nCôte d'Ivoire : +225 01 41 47 82 82\nBénin : +229 01 66 66 89 90\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282 (Côte d'Ivoire)\n\nOffre Bronze incluse pour toute étude confiée à SPIRIT.\n\n#SPIRITMetrics #ExpérienceClient #Performance #Pilotage #CôteDIvoire #Bénin",
+   "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_LI_vignette.png",
+   "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/video_SPIRITMetrics_40s_LI4.mp4"
   },
   {
    "jour": "dimanche",
