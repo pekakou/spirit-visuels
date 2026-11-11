@@ -1,0 +1,31 @@
+{
+ "rubrique": "La Minute Conseil",
+ "heure": "14:05 (Abidjan)",
+ "programme_hebdo": {
+  "lundi": "Évaluation",
+  "mardi": "Études",
+  "mercredi": "Formation",
+  "jeudi": "Technologie",
+  "vendredi": "Stratégie"
+ },
+ "publications": [
+  {
+   "date": "2026-11-11",
+   "jour": "mercredi",
+   "theme": "Formation",
+   "titre_facebook": "La Minute Conseil Formation",
+   "video_facebook": "minute_conseil/videos/minute_conseil_formation_FB.mp4",
+   "video_linkedin": "minute_conseil/videos/minute_conseil_formation_LI.mp4",
+   "textes": {
+    "LI": "⏱️ LA MINUTE CONSEIL · Formation\n\n« Mieux connaître », « être sensibilisé à »… Un objectif de formation aussi vague ne change rien sur le terrain.\n\n✅ Le bon objectif : un comportement concret et vérifiable.\n⚠️ L'erreur courante : construire le programme à partir des contenus à transmettre, au lieu des situations que vivent vos équipes.\n\nPartez des situations réelles, et prévoyez dès le départ comment vous vérifierez que l'objectif est atteint.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\nParlons de vos enjeux :\n📞 Côte d'Ivoire : +225 01 41 47 82 82 · www.spirit-ci.com\n💬 WhatsApp : https://wa.me/2250141478282\n📞 Bénin : +229 01 66 66 89 90 · www.spirit-bj.com\n\n#LaMinuteConseil #Formation #Compétences #Management #CôteDIvoire #Bénin",
+    "CI": "⏱️ LA MINUTE CONSEIL · Formation\n\n« Mieux connaître », « être sensibilisé à »… Un objectif de formation aussi vague ne change rien sur le terrain.\n\n✅ Le bon objectif : un comportement concret et vérifiable.\n⚠️ L'erreur courante : construire le programme à partir des contenus à transmettre, au lieu des situations que vivent vos équipes.\n\nPartez des situations réelles, et prévoyez dès le départ comment vous vérifierez que l'objectif est atteint.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+    "BJ": "⏱️ LA MINUTE CONSEIL · Formation\n\n« Mieux connaître », « être sensibilisé à »… Un objectif de formation aussi vague ne change rien sur le terrain.\n\n✅ Le bon objectif : un comportement concret et vérifiable.\n⚠️ L'erreur courante : construire le programme à partir des contenus à transmettre, au lieu des situations que vivent vos équipes.\n\nPartez des situations réelles, et prévoyez dès le départ comment vous vérifierez que l'objectif est atteint.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
+   },
+   "statut": {
+    "LI": "a_publier",
+    "CI": "a_publier",
+    "BJ": "a_publier"
+   }
+  }
+ ]
+}
