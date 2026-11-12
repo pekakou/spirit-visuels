@@ -27,6 +27,24 @@
     "BJ": "publie"
    },
    "publie_le": "2026-11-11 15:24 UTC"
+  },
+  {
+   "date": "2026-11-12",
+   "jour": "jeudi",
+   "theme": "Technologie",
+   "titre_facebook": "La Minute Conseil Technologie",
+   "video_facebook": "minute_conseil/videos/minute_conseil_technologie_FB.mp4",
+   "video_linkedin": "minute_conseil/videos/minute_conseil_technologie_LI.mp4",
+   "textes": {
+    "LI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nLe plus souvent, ce n'est pas la technologie qui échoue. C'est l'adoption.\n\n⚠️ Pourquoi ça bloque : les utilisateurs ne sont pas associés, et ils retournent vite à leurs anciennes habitudes.\n✅ Notre conseil : partez des usages réels, impliquez des utilisateurs clés dès le départ, et déployez par étapes.\n\nUn outil n'apporte de la valeur que s'il est réellement utilisé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\nParlons de vos enjeux :\n📞 Côte d'Ivoire : +225 01 41 47 82 82 · www.spirit-ci.com\n💬 WhatsApp : https://wa.me/2250141478282\n📞 Bénin : +229 01 66 66 89 90 · www.spirit-bj.com\n\n#LaMinuteConseil #Technologie #TransformationDigitale #Adoption #CôteDIvoire #Bénin",
+    "CI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nLe plus souvent, ce n'est pas la technologie qui échoue. C'est l'adoption.\n\n⚠️ Pourquoi ça bloque : les utilisateurs ne sont pas associés, et ils retournent vite à leurs anciennes habitudes.\n✅ Notre conseil : partez des usages réels, impliquez des utilisateurs clés dès le départ, et déployez par étapes.\n\nUn outil n'apporte de la valeur que s'il est réellement utilisé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+    "BJ": "⏱️ LA MINUTE CONSEIL · Technologie\n\nLe plus souvent, ce n'est pas la technologie qui échoue. C'est l'adoption.\n\n⚠️ Pourquoi ça bloque : les utilisateurs ne sont pas associés, et ils retournent vite à leurs anciennes habitudes.\n✅ Notre conseil : partez des usages réels, impliquez des utilisateurs clés dès le départ, et déployez par étapes.\n\nUn outil n'apporte de la valeur que s'il est réellement utilisé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
+   },
+   "statut": {
+    "LI": "a_publier",
+    "CI": "a_publier",
+    "BJ": "a_publier"
+   }
   }
  ]
 }
