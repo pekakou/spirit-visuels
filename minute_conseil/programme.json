@@ -41,10 +41,11 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Technologie\n\nLe plus souvent, ce n'est pas la technologie qui échoue. C'est l'adoption.\n\n⚠️ Pourquoi ça bloque : les utilisateurs ne sont pas associés, et ils retournent vite à leurs anciennes habitudes.\n✅ Notre conseil : partez des usages réels, impliquez des utilisateurs clés dès le départ, et déployez par étapes.\n\nUn outil n'apporte de la valeur que s'il est réellement utilisé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "publie",
+    "BJ": "publie"
+   },
+   "publie_le": "2026-11-12 14:09 UTC"
   }
  ]
 }
