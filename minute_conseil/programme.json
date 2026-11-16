@@ -80,10 +80,13 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Évaluation\n\nEnquête ou visite mystère ? Ce n'est pas la même chose, et l'écart entre les deux en dit long.\n\n🔍 L'enquête recueille ce que le client veut bien dire. La visite mystère observe ce qui se passe réellement : l'accueil, l'attente, la qualité du conseil, la promesse tenue… ou non.\n⚠️ L'écart fréquent : un service jugé satisfaisant dans les enquêtes, mais des standards oubliés dès que l'affluence monte. Le client ne le signale pas : il change d'enseigne.\n⚠️ L'erreur courante : une seule visite, un jour calme.\n\nMultipliez les visites à différents moments, et confrontez-les à la parole de vos clients.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "echec",
+    "BJ": "echec"
+   },
+   "erreur_CI": "Facebook : « Unable to fetch video file from URL » (389), échec après une relance",
+   "erreur_BJ": "Facebook : « Unable to fetch video file from URL » (389), échec après une relance",
+   "publie_le": "2026-11-16 14:09 UTC (LinkedIn)"
   }
  ]
 }
