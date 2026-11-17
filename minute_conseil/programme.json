@@ -87,6 +87,25 @@
    "erreur_CI": "Facebook : « Unable to fetch video file from URL » (389), échec après une relance",
    "erreur_BJ": "Facebook : « Unable to fetch video file from URL » (389), échec après une relance",
    "publie_le": "2026-11-16 14:09 UTC (LinkedIn)"
+  },
+  {
+   "date": "2026-11-17",
+   "jour": "mardi",
+   "theme": "Études",
+   "semaine": "S1",
+   "titre_facebook": "La Minute Conseil Études",
+   "video_facebook": "minute_conseil/videos/minute_conseil_s1_etudes_FB.mp4",
+   "video_linkedin": "minute_conseil/videos/minute_conseil_s1_etudes_LI.mp4",
+   "textes": {
+    "LI": "⏱️ LA MINUTE CONSEIL · Études\n\nCSAT, NPS, CES : trois indicateurs, trois questions différentes.\n\n🔍 Le CSAT mesure la satisfaction sur une expérience précise. Le NPS mesure la recommandation. Le CES mesure l'effort que le client a dû fournir pour obtenir ce qu'il voulait.\n💡 Un client peut être satisfait… mais épuisé par la démarche. Et l'effort annonce souvent le départ.\n⚠️ L'erreur courante : un seul indicateur pour tout juger.\n\nChoisissez l'indicateur selon la décision à prendre, et suivez-le dans le temps plutôt qu'un chiffre isolé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\nParlons de vos enjeux :\n📞 Côte d'Ivoire : +225 01 41 47 82 82 · www.spirit-ci.com\n💬 WhatsApp : https://wa.me/2250141478282\n📞 Bénin : +229 01 66 66 89 90 · www.spirit-bj.com\n\n#LaMinuteConseil #Études #NPS #CSAT #CES #ExpérienceClient #CôteDIvoire #Bénin",
+    "CI": "⏱️ LA MINUTE CONSEIL · Études\n\nCSAT, NPS, CES : trois indicateurs, trois questions différentes.\n\n🔍 Le CSAT mesure la satisfaction sur une expérience précise. Le NPS mesure la recommandation. Le CES mesure l'effort que le client a dû fournir pour obtenir ce qu'il voulait.\n💡 Un client peut être satisfait… mais épuisé par la démarche. Et l'effort annonce souvent le départ.\n⚠️ L'erreur courante : un seul indicateur pour tout juger.\n\nChoisissez l'indicateur selon la décision à prendre, et suivez-le dans le temps plutôt qu'un chiffre isolé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+    "BJ": "⏱️ LA MINUTE CONSEIL · Études\n\nCSAT, NPS, CES : trois indicateurs, trois questions différentes.\n\n🔍 Le CSAT mesure la satisfaction sur une expérience précise. Le NPS mesure la recommandation. Le CES mesure l'effort que le client a dû fournir pour obtenir ce qu'il voulait.\n💡 Un client peut être satisfait… mais épuisé par la démarche. Et l'effort annonce souvent le départ.\n⚠️ L'erreur courante : un seul indicateur pour tout juger.\n\nChoisissez l'indicateur selon la décision à prendre, et suivez-le dans le temps plutôt qu'un chiffre isolé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
+   },
+   "statut": {
+    "LI": "a_publier",
+    "CI": "a_publier",
+    "BJ": "a_publier"
+   }
   }
  ]
 }
