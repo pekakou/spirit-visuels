@@ -122,10 +122,12 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Formation\n\nUne formation identique pour tous est rarement adaptée : chaque équipe a ses propres écarts, l'accueil ici, le suivi des réclamations là.\n\n✅ La bonne approche : partir des résultats d'évaluation et cibler ce qui doit vraiment progresser. Les collaborateurs comprennent pourquoi ils sont formés.\n⚠️ L'erreur courante : former tout le monde, sur tout, une fois par an.\n\nPartez des écarts constatés, ciblez, formez court… puis vérifiez sur le terrain ce qui a réellement changé.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "echec",
+    "BJ": "publie"
+   },
+   "erreur_CI": "Unable to fetch video file from URL (389, OAuthException), 2 essais",
+   "publie_le": "2026-11-18 14:12 UTC"
   }
  ]
 }
