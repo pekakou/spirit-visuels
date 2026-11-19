@@ -143,10 +143,11 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Technologie\n\nVotre tableau de bord sert-il à décider… ou à archiver ?\n\n⚠️ Le piège : un fichier figé envoyé chaque mois, trop d'indicateurs, des résultats qui arrivent trop tard.\n✅ La différence : un tableau de bord interactif en ligne. Chacun filtre et compare, la direction voit les priorités, chaque responsable voit son périmètre.\n⚠️ L'erreur courante : tout mesurer sans savoir qui doit agir.\n\nUn indicateur, un responsable, une action. Et des résultats mis à jour en continu pour décider à temps.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "publie",
+    "BJ": "publie"
+   },
+   "publie_le": "2026-11-19 14:10 UTC"
   }
  ]
 }
