@@ -6,13 +6,15 @@
  "options_hors_grille": [
   {
    "jour": "lundi",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "pays": "CI",
    "angle": "Panel SPIRIT : vidéo de recrutement des panélistes (22 s, 9:16), placement à décider avec Paul-Emile",
-   "texte": "",
+   "texte": "📱 Votre avis a de la valeur. Rejoignez Panel SPIRIT !\n\nÉtudiant, mère de famille, commerçant, salarié… Panel SPIRIT, c'est la communauté de consommateurs de SPIRIT en Côte d'Ivoire.\n\n✅ Des sondages en ligne, depuis votre téléphone\n✅ Quelques minutes pour donner votre avis sur les produits et services que vous utilisez\n✅ Des points et des avantages à chaque participation\n\nL'inscription est gratuite.\n\n👉 Inscrivez-vous sur panel.spirit-ci.com\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282",
    "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/recrutement_panelSPIRIT_CI_vignette.png",
    "video_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-09/recrutement_panelSPIRIT_CI.mp4",
-   "statut": "a_decider"
+   "statut": "publie",
+   "publie_le": "2026-11-19T09:37:57+00:00",
+   "note": "Publiée sur Facebook Côte d'Ivoire le 19/11/2026 sur demande de Paul-Emile (2e essai après « Unable to fetch video file from URL »)."
   }
  ],
  "programme_le": "2026-11-08T03:13:28+00:00",
