@@ -128,6 +128,25 @@
    },
    "erreur_CI": "Unable to fetch video file from URL (389, OAuthException), 2 essais",
    "publie_le": "2026-11-18 14:12 UTC"
+  },
+  {
+   "date": "2026-11-19",
+   "jour": "jeudi",
+   "theme": "Technologie",
+   "semaine": "S1",
+   "titre_facebook": "La Minute Conseil Technologie",
+   "video_facebook": "minute_conseil/videos/minute_conseil_s1_technologie_FB.mp4",
+   "video_linkedin": "minute_conseil/videos/minute_conseil_s1_technologie_LI.mp4",
+   "textes": {
+    "LI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nVotre tableau de bord sert-il à décider… ou à archiver ?\n\n⚠️ Le piège : un fichier figé envoyé chaque mois, trop d'indicateurs, des résultats qui arrivent trop tard.\n✅ La différence : un tableau de bord interactif en ligne. Chacun filtre et compare, la direction voit les priorités, chaque responsable voit son périmètre.\n⚠️ L'erreur courante : tout mesurer sans savoir qui doit agir.\n\nUn indicateur, un responsable, une action. Et des résultats mis à jour en continu pour décider à temps.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\nParlons de vos enjeux :\n📞 Côte d'Ivoire : +225 01 41 47 82 82 · www.spirit-ci.com\n💬 WhatsApp : https://wa.me/2250141478282\n📞 Bénin : +229 01 66 66 89 90 · www.spirit-bj.com\n\n#LaMinuteConseil #Technologie #TableauDeBord #Pilotage #DataDriven #CôteDIvoire #Bénin",
+    "CI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nVotre tableau de bord sert-il à décider… ou à archiver ?\n\n⚠️ Le piège : un fichier figé envoyé chaque mois, trop d'indicateurs, des résultats qui arrivent trop tard.\n✅ La différence : un tableau de bord interactif en ligne. Chacun filtre et compare, la direction voit les priorités, chaque responsable voit son périmètre.\n⚠️ L'erreur courante : tout mesurer sans savoir qui doit agir.\n\nUn indicateur, un responsable, une action. Et des résultats mis à jour en continu pour décider à temps.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+    "BJ": "⏱️ LA MINUTE CONSEIL · Technologie\n\nVotre tableau de bord sert-il à décider… ou à archiver ?\n\n⚠️ Le piège : un fichier figé envoyé chaque mois, trop d'indicateurs, des résultats qui arrivent trop tard.\n✅ La différence : un tableau de bord interactif en ligne. Chacun filtre et compare, la direction voit les priorités, chaque responsable voit son périmètre.\n⚠️ L'erreur courante : tout mesurer sans savoir qui doit agir.\n\nUn indicateur, un responsable, une action. Et des résultats mis à jour en continu pour décider à temps.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
+   },
+   "statut": {
+    "LI": "a_publier",
+    "CI": "a_publier",
+    "BJ": "a_publier"
+   }
   }
  ]
 }
