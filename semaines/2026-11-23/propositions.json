@@ -1,6 +1,6 @@
 {
  "semaine": "2026-11-23",
- "statut": "en_attente_validation",
+ "statut": "programme",
  "envoye_le": "2026-11-20T14:56:16+00:00",
  "note": "Les posts imposés du lundi 23 (vidéo de présentation Panel SPIRIT, CI et LinkedIn, a_placer.json) ont déjà été publiés le 20/11/2026 à la demande de Paul-Emile : ils ne sont pas repris ici pour ne pas les republier. Pas de jour férié ni de fête en Côte d'Ivoire et au Bénin du 23 au 29 novembre 2026.",
  "posts": [
@@ -124,5 +124,7 @@
    "texte": "Directions générales, directions marketing : votre performance, d'un seul regard.\n\nLes décisions de l'année se prennent avec une vision d'ensemble. SPIRITMetrics consolide tous vos canaux, de la direction générale jusqu'à l'agence : satisfaction, client mystère et Panel CX au même endroit, vos résultats sur une carte, et des plans d'action suivis jusqu'au terrain.\n\nLa plateforme est déjà adoptée par une banque et un opérateur télécom en Côte d'Ivoire.\n\nNous venons vous la présenter, avec vos propres enjeux, lors d'une démo privée.\n\nDécouvrez SPIRITMetrics en vidéo :\nCôte d'Ivoire : https://www.spirit-ci.com/demo?utm_source=linkedin&utm_medium=social&utm_campaign=campagne_fin2026\nBénin : https://www.spirit-bj.com/demo?utm_source=linkedin&utm_medium=social&utm_campaign=campagne_fin2026\n\nRéservez votre démo privée :\nCôte d'Ivoire : +225 01 41 47 82 82\nBénin : +229 01 66 66 89 90\nÉcrivez-nous sur WhatsApp : https://wa.me/2250141478282 (Côte d'Ivoire)\n\nOffre Bronze incluse pour toute étude confiée à SPIRIT.\n\n#SPIRITMetrics #DirectionGénérale #Marketing #Pilotage #CôteDIvoire #Bénin",
    "image_url": "https://raw.githubusercontent.com/pekakou/spirit-visuels/main/semaines/2026-11-23/vendredi_vision_LI.png"
   }
- ]
+ ],
+ "programme_le": "2026-11-23T07:04:55+00:00",
+ "programme_par": "regle_lundi_7h"
 }
