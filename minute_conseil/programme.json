@@ -203,10 +203,11 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Études\n\nMille répondants : votre étude est-elle fiable pour autant ?\n\n⚠️ Le piège : un grand échantillon mal construit donne des résultats précis… mais faux.\n🔍 Ce qui compte : qu'il ressemble à la population que vous voulez comprendre. Âge, région, profil de client, canal utilisé : si un groupe est oublié ou surreprésenté, les conclusions basculent.\n⚠️ L'erreur courante : interroger ceux qui sont faciles à joindre, plutôt que ceux qui comptent pour la décision.\n\nDéfinissez d'abord qui vous devez entendre, fixez des quotas, puis contrôlez la composition de l'échantillon avant d'analyser.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "publie",
+    "BJ": "publie"
+   },
+   "publie_le": "2026-11-24 14:08 UTC"
   }
  ]
 }
