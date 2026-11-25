@@ -223,10 +223,11 @@
     "BJ": "⏱️ LA MINUTE CONSEIL · Formation\n\nQue retiennent vos équipes d'une journée entière de formation ? Souvent, très peu.\n\n⚠️ Le constat : sans pratique ni rappel, l'essentiel s'oublie en quelques jours.\n✅ Les formats courts proposent l'inverse : des séquences de quelques minutes, ciblées sur un geste ou un comportement précis, disponibles au moment où l'on en a besoin.\n⚠️ L'erreur courante : tout concentrer en une seule session, puis passer à autre chose.\n\nDécoupez, répétez et ancrez. Une compétence se construit dans la durée, petite séquence après petite séquence.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
    },
    "statut": {
-    "LI": "a_publier",
-    "CI": "a_publier",
-    "BJ": "a_publier"
-   }
+    "LI": "publie",
+    "CI": "publie",
+    "BJ": "publie"
+   },
+   "publie_le": "2026-11-25 14:08 UTC"
   }
  ]
 }
