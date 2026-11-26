@@ -228,6 +228,25 @@
     "BJ": "publie"
    },
    "publie_le": "2026-11-25 14:08 UTC"
+  },
+  {
+   "date": "2026-11-26",
+   "jour": "jeudi",
+   "theme": "Technologie",
+   "semaine": "S2",
+   "titre_facebook": "La Minute Conseil Technologie",
+   "video_facebook": "minute_conseil/videos/minute_conseil_s2_technologie_FB.mp4",
+   "video_linkedin": "minute_conseil/videos/minute_conseil_s2_technologie_LI.mp4",
+   "textes": {
+    "LI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nÉcouter vos clients une fois par an… et le reste de l'année ?\n\n🔍 Les outils : aujourd'hui, la technologie permet d'écouter vos clients en continu. Un QR code en point de contact physique, un court questionnaire envoyé par SMS ou WhatsApp après un passage, un avis laissé en ligne.\n✅ La centralisation : ces retours peuvent arriver directement dans une plateforme technologique unique, qui alerte le bon responsable dès qu'un client signale une difficulté.\n⚠️ L'erreur courante : multiplier les canaux de collecte, sans jamais rassembler les réponses ni les traiter.\n\nUn point d'entrée simple pour le client, une plateforme centrale pour l'équipe, et une alerte avec un délai de traitement pour chaque signal négatif.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\nParlons de vos enjeux :\n📞 Côte d'Ivoire : +225 01 41 47 82 82 · www.spirit-ci.com\n💬 WhatsApp : https://wa.me/2250141478282\n📞 Bénin : +229 01 66 66 89 90 · www.spirit-bj.com\n\n#LaMinuteConseil #Technologie #ÉcouteClient #VoixDuClient #ExpérienceClient #CôteDIvoire #Bénin",
+    "CI": "⏱️ LA MINUTE CONSEIL · Technologie\n\nÉcouter vos clients une fois par an… et le reste de l'année ?\n\n🔍 Les outils : aujourd'hui, la technologie permet d'écouter vos clients en continu. Un QR code en point de contact physique, un court questionnaire envoyé par SMS ou WhatsApp après un passage, un avis laissé en ligne.\n✅ La centralisation : ces retours peuvent arriver directement dans une plateforme technologique unique, qui alerte le bon responsable dès qu'un client signale une difficulté.\n⚠️ L'erreur courante : multiplier les canaux de collecte, sans jamais rassembler les réponses ni les traiter.\n\nUn point d'entrée simple pour le client, une plateforme centrale pour l'équipe, et une alerte avec un délai de traitement pour chaque signal négatif.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +225 01 41 47 82 82\n💬 WhatsApp : https://wa.me/2250141478282\n🌐 www.spirit-ci.com",
+    "BJ": "⏱️ LA MINUTE CONSEIL · Technologie\n\nÉcouter vos clients une fois par an… et le reste de l'année ?\n\n🔍 Les outils : aujourd'hui, la technologie permet d'écouter vos clients en continu. Un QR code en point de contact physique, un court questionnaire envoyé par SMS ou WhatsApp après un passage, un avis laissé en ligne.\n✅ La centralisation : ces retours peuvent arriver directement dans une plateforme technologique unique, qui alerte le bon responsable dès qu'un client signale une difficulté.\n⚠️ L'erreur courante : multiplier les canaux de collecte, sans jamais rassembler les réponses ni les traiter.\n\nUn point d'entrée simple pour le client, une plateforme centrale pour l'équipe, et une alerte avec un délai de traitement pour chaque signal négatif.\n\nRendez-vous demain à 14 h 05 pour une nouvelle Minute Conseil.\n\n👉 Parlons de vos enjeux :\n📞 +229 01 66 66 89 90\n🌐 www.spirit-bj.com"
+   },
+   "statut": {
+    "LI": "a_publier",
+    "CI": "a_publier",
+    "BJ": "a_publier"
+   }
   }
  ]
 }
